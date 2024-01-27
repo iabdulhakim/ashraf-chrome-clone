@@ -10,15 +10,15 @@ const App = () => {
       <Top />
       <div className="container pt-[55px]">
         <div role="tablist" className="tabs tabs-lifted">
-          <input type="radio" name="my_tabs_2" role="tab" className="tab" aria-label="Tailwind CSS" />
+          <input type="radio" name="my_tabs_2" role="tab" className="tab" aria-label="tailwindcss.com" />
           <div role="tabpanel" className="tab-content bg-base-100 border-base-300 rounded-box p-6">
             <Tailwind />
           </div>
-          <input type="radio" name="my_tabs_2" role="tab" className="tab" aria-label="Remix Icon" checked />
+          <input type="radio" name="my_tabs_2" role="tab" className="tab" aria-label="remixicon.com" checked />
           <div role="tabpanel" className="tab-content bg-base-100 border-base-300 rounded-box p-6">
             <Remix />
           </div>
-          <input type="radio" name="my_tabs_2" role="tab" className="tab" aria-label="Najot Ta'lim" />
+          <input type="radio" name="my_tabs_2" role="tab" className="tab" aria-label="najottalim.uz" />
           <div role="tabpanel" className="tab-content bg-base-100 border-base-300 rounded-box p-6">
             <Najot />
           </div>
