@@ -1,6 +1,6 @@
 const Remix = () => {
   return (
-    <div className="">
+    <div>
         <div className="container">
             <header className="flex items-center justify-between">
                 <a href="#" className="flex items-center gap-3">
